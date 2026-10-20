@@ -10,7 +10,7 @@ Zig client for the [CareJobs.Now](https://carejobs.now) healthcare jobs API. Sea
 ## Install
 
 ```sh
-zig fetch --save git+https://github.com/yumaheymans/carejobs-zig
+zig fetch --save git+https://github.com/yumaheymans/carejobs-zig#v1.0.0
 ```
 
 Then in your `build.zig`:
