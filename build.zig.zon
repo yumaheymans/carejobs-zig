@@ -1,0 +1,14 @@
+.{
+    .name = .carejobs,
+    .version = "1.0.0",
+    .fingerprint = 0x8868d94e0eb6bf29,
+    .minimum_zig_version = "0.17.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+        "LICENSE",
+    },
+}
